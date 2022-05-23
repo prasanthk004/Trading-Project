@@ -1,0 +1,68 @@
+D:\IMP\VB.net\Trading Solution\Trading System Main\obj\Debug\net5.0-windows\Trading System Main.vbproj.AssemblyReference.cache
+D:\IMP\VB.net\Trading Solution\Trading System Main\obj\Debug\net5.0-windows\Trading System Main.vbproj.ResolveComReference.cache
+D:\IMP\VB.net\Trading Solution\Trading System Main\obj\Debug\net5.0-windows\Trading_System_Main.frmCustomer.resources
+D:\IMP\VB.net\Trading Solution\Trading System Main\obj\Debug\net5.0-windows\Trading_System_Main.frmFindcus.resources
+D:\IMP\VB.net\Trading Solution\Trading System Main\obj\Debug\net5.0-windows\Trading_System_Main.frmFinditems.resources
+D:\IMP\VB.net\Trading Solution\Trading System Main\obj\Debug\net5.0-windows\Trading_System_Main.frmItems.resources
+D:\IMP\VB.net\Trading Solution\Trading System Main\obj\Debug\net5.0-windows\Trading_System_Main.Login.resources
+D:\IMP\VB.net\Trading Solution\Trading System Main\obj\Debug\net5.0-windows\Trading_System_Main.FrmFindTransaction.resources
+D:\IMP\VB.net\Trading Solution\Trading System Main\obj\Debug\net5.0-windows\Trading_System_Main.StockTxn.resources
+D:\IMP\VB.net\Trading Solution\Trading System Main\obj\Debug\net5.0-windows\Trading_System_Main.PurchaseEntry.resources
+D:\IMP\VB.net\Trading Solution\Trading System Main\obj\Debug\net5.0-windows\Trading_System_Main.SalesEntry.resources
+D:\IMP\VB.net\Trading Solution\Trading System Main\obj\Debug\net5.0-windows\Trading_System_Main.frmFindSupplier.resources
+D:\IMP\VB.net\Trading Solution\Trading System Main\obj\Debug\net5.0-windows\Trading_System_Main.TestingDALS.resources
+D:\IMP\VB.net\Trading Solution\Trading System Main\obj\Debug\net5.0-windows\Trading_System_Main.frmSupplierNavigatefind.resources
+D:\IMP\VB.net\Trading Solution\Trading System Main\obj\Debug\net5.0-windows\Trading_System_Main.FrmFindUsers.resources
+D:\IMP\VB.net\Trading Solution\Trading System Main\obj\Debug\net5.0-windows\Trading_System_Main.frmUsers.resources
+D:\IMP\VB.net\Trading Solution\Trading System Main\obj\Debug\net5.0-windows\Trading_System_Main.Resources.resources
+D:\IMP\VB.net\Trading Solution\Trading System Main\obj\Debug\net5.0-windows\Trading_System_Main.ComboItemDB.resources
+D:\IMP\VB.net\Trading Solution\Trading System Main\obj\Debug\net5.0-windows\Trading_System_Main.DataGridView.resources
+D:\IMP\VB.net\Trading Solution\Trading System Main\obj\Debug\net5.0-windows\Trading_System_Main.DataListView.resources
+D:\IMP\VB.net\Trading Solution\Trading System Main\obj\Debug\net5.0-windows\Trading_System_Main.LoopingADOobjects.resources
+D:\IMP\VB.net\Trading Solution\Trading System Main\obj\Debug\net5.0-windows\Trading_System_Main.SupplierV2.resources
+D:\IMP\VB.net\Trading Solution\Trading System Main\obj\Debug\net5.0-windows\Trading_System_Main.Trading_Common_Controls.resources
+D:\IMP\VB.net\Trading Solution\Trading System Main\obj\Debug\net5.0-windows\Trading_System_Main.Trading_MDI.resources
+D:\IMP\VB.net\Trading Solution\Trading System Main\obj\Debug\net5.0-windows\Trading System Main.vbproj.GenerateResource.cache
+D:\IMP\VB.net\Trading Solution\Trading System Main\obj\Debug\net5.0-windows\Trading System Main.GeneratedMSBuildEditorConfig.editorconfig
+D:\IMP\VB.net\Trading Solution\Trading System Main\obj\Debug\net5.0-windows\Trading System Main.AssemblyInfoInputs.cache
+D:\IMP\VB.net\Trading Solution\Trading System Main\obj\Debug\net5.0-windows\Trading System Main.AssemblyInfo.vb
+D:\IMP\VB.net\Trading Solution\Trading System Main\obj\Debug\net5.0-windows\Trading System Main.vbproj.CoreCompileInputs.cache
+D:\IMP\VB.net\Trading Solution\Trading System Main\bin\Debug\net5.0-windows\Trading System Main.exe
+D:\IMP\VB.net\Trading Solution\Trading System Main\bin\Debug\net5.0-windows\Trading System Main.dll.config
+D:\IMP\VB.net\Trading Solution\Trading System Main\bin\Debug\net5.0-windows\Trading System Main.deps.json
+D:\IMP\VB.net\Trading Solution\Trading System Main\bin\Debug\net5.0-windows\Trading System Main.runtimeconfig.json
+D:\IMP\VB.net\Trading Solution\Trading System Main\bin\Debug\net5.0-windows\Trading System Main.runtimeconfig.dev.json
+D:\IMP\VB.net\Trading Solution\Trading System Main\bin\Debug\net5.0-windows\Trading System Main.dll
+D:\IMP\VB.net\Trading Solution\Trading System Main\bin\Debug\net5.0-windows\Trading System Main.pdb
+D:\IMP\VB.net\Trading Solution\Trading System Main\bin\Debug\net5.0-windows\Azure.Core.dll
+D:\IMP\VB.net\Trading Solution\Trading System Main\bin\Debug\net5.0-windows\Azure.Identity.dll
+D:\IMP\VB.net\Trading Solution\Trading System Main\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IMP\VB.net\Trading Solution\Trading System Main\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\IMP\VB.net\Trading Solution\Trading System Main\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\IMP\VB.net\Trading Solution\Trading System Main\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\IMP\VB.net\Trading Solution\Trading System Main\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IMP\VB.net\Trading Solution\Trading System Main\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\IMP\VB.net\Trading Solution\Trading System Main\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\IMP\VB.net\Trading Solution\Trading System Main\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IMP\VB.net\Trading Solution\Trading System Main\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\IMP\VB.net\Trading Solution\Trading System Main\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\IMP\VB.net\Trading Solution\Trading System Main\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\IMP\VB.net\Trading Solution\Trading System Main\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IMP\VB.net\Trading Solution\Trading System Main\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IMP\VB.net\Trading Solution\Trading System Main\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IMP\VB.net\Trading Solution\Trading System Main\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IMP\VB.net\Trading Solution\Trading System Main\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IMP\VB.net\Trading Solution\Trading System Main\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IMP\VB.net\Trading Solution\Trading System Main\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\IMP\VB.net\Trading Solution\Trading System Main\bin\Debug\net5.0-windows\Trading BO.dll
+D:\IMP\VB.net\Trading Solution\Trading System Main\bin\Debug\net5.0-windows\Trading BO.pdb
+D:\IMP\VB.net\Trading Solution\Trading System Main\bin\Debug\net5.0-windows\Trading BO.xml
+D:\IMP\VB.net\Trading Solution\Trading System Main\bin\Debug\net5.0-windows\Trading BO.dll.config
+D:\IMP\VB.net\Trading Solution\Trading System Main\obj\Debug\net5.0-windows\Trading System Main.vbproj.CopyComplete
+D:\IMP\VB.net\Trading Solution\Trading System Main\obj\Debug\net5.0-windows\Trading System Main.dll
+D:\IMP\VB.net\Trading Solution\Trading System Main\obj\Debug\net5.0-windows\ref\Trading System Main.dll
+D:\IMP\VB.net\Trading Solution\Trading System Main\obj\Debug\net5.0-windows\Trading System Main.pdb
+D:\IMP\VB.net\Trading Solution\Trading System Main\obj\Debug\net5.0-windows\Trading System Main.genruntimeconfig.cache
+D:\IMP\VB.net\Trading Solution\Trading System Main\obj\Debug\net5.0-windows\Trading_System_Main.MYPrintDocument.resources
+D:\IMP\VB.net\Trading Solution\Trading System Main\obj\Debug\net5.0-windows\Trading_System_Main.PurchaseReport.resources
+D:\IMP\VB.net\Trading Solution\Trading System Main\obj\Debug\net5.0-windows\refint\Trading System Main.dll

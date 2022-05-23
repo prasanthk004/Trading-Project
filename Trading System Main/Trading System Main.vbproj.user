@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms\Customer\frmCustomer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Customer\frmFindcus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Items\frmFinditems.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Items\frmItems.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Login\Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Opening Stock\FrmFindTransaction.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Opening Stock\StockTxn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\PurchaseEntry\PurchaseEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Sales\SalesEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Supplier\frmFindSupplier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Supplier\FrmSupplier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Supplier\frmSupplierNavigatefind.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Users\FrmFindUsers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Users\frmUsers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reasearch\ComboItemDB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reasearch\DataGridView.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reasearch\DataListView.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reasearch\LoopingADOobjects.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reports\MYPrintDocument.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reasearch\SupplierV2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reports\PurchaseReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Trading Common Controls.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Trading MDI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

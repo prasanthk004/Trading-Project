@@ -1,0 +1,74 @@
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\Trading BO.dll.config
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\Trading BO.dll
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\Trading BO.pdb
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\Trading BO.xml
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\Azure.Core.dll
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\Azure.Identity.dll
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\Microsoft.Identity.Client.dll
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\System.Buffers.dll
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\System.Memory.dll
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\System.Numerics.Vectors.dll
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\System.Security.AccessControl.dll
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\System.Security.Permissions.dll
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\System.Security.Principal.Windows.dll
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\System.Text.Encodings.Web.dll
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\System.Text.Json.dll
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\System.ValueTuple.dll
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\Azure.Core.xml
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\Azure.Identity.xml
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\Microsoft.Identity.Client.xml
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\System.Buffers.xml
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\System.Memory.xml
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\System.Numerics.Vectors.xml
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\System.Security.AccessControl.xml
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\System.Security.Permissions.xml
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\System.Security.Principal.Windows.xml
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\System.Text.Encodings.Web.xml
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\System.Text.Json.xml
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\System.ValueTuple.xml
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\IMP\VB.net\Trading Solution\Trading BO\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\IMP\VB.net\Trading Solution\Trading BO\obj\Debug\Trading BO.vbproj.AssemblyReference.cache
+D:\IMP\VB.net\Trading Solution\Trading BO\obj\Debug\Trading_BO.Resources.resources
+D:\IMP\VB.net\Trading Solution\Trading BO\obj\Debug\Trading BO.vbproj.GenerateResource.cache
+D:\IMP\VB.net\Trading Solution\Trading BO\obj\Debug\Trading BO.vbproj.CoreCompileInputs.cache
+D:\IMP\VB.net\Trading Solution\Trading BO\obj\Debug\Trading BO.vbproj.CopyComplete
+D:\IMP\VB.net\Trading Solution\Trading BO\obj\Debug\Trading BO.dll
+D:\IMP\VB.net\Trading Solution\Trading BO\obj\Debug\Trading BO.xml
+D:\IMP\VB.net\Trading Solution\Trading BO\obj\Debug\Trading BO.pdb
